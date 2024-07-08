@@ -4,8 +4,9 @@ Made for the Summer Semester project [Formalizing and Proving Theorems in Coq](h
 The first time I saw Cantor's diagonal argument to prove that Reals are uncountable I was stunned by the intuitiveness, simplicity and beauty of the proof.
 
 ## Contents
- - uncountability of sequences of natural numbers
- - uncountability of the power set of natural numbers
+I showed the following results:
+ - uncountability of sequences of natural numbers;
+ - uncountability of the power set of natural numbers.
 
 In the `short` folder, compressed proofs for the results are included.
 
