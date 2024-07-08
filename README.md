@@ -7,7 +7,11 @@ The first time I saw Cantor's diagonal argument to prove that Reals are uncounta
 TODO: add contents
 
 ## Usage
-TODO: add compiler info
+After downloading the repo, open a terminal in it (I used an opam switch with coq installed).
+Run `coq_makefile -f _CoqProject -o CoqMakefile` to generate a make file and `make -f CoqMakefile` to build the project.
+
+## TODO
+Add diagonal argument for uncountability of reals.
 
 ## Bibliography
 TODO: add bibliography
